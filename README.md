@@ -56,18 +56,4 @@ Please visit [System Prompts Roadmap & Feedback](https://systemprompts.featureba
 
 If you find this collection valuable and appreciate the effort involved in obtaining and sharing these insights, please consider supporting the project. Your contribution helps keep this resource updated and allows for further exploration.
 
-You can show your support via:
 
-*   **PayPal:** `lucknitelol@proton.me`
-*   **Cryptocurrency:**
-    *   **BTC:** `bc1q7zldmzjwspnaa48udvelwe6k3fef7xrrhg5625`
-    *   **LTC:** `LRWgqwEYDwqau1WeiTs6Mjg85NJ7m3fsdQ`
-
-Thank you for your support! 🙏
-
-
-## 🔗 **Connect With Me**  
-✖ **X:** [NotLucknite](https://x.com/NotLucknite)  
-💬 **Discord:** `x1xh`  
-
-⭐ **Drop a star if you find this useful!**
